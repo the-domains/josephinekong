@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Josephinekong]]></title>
-        <description><![CDATA[Josephinekong]]></description>
-        <link>https://thegrid.ai/josephinekong/</link>
+        <title><![CDATA[Makeup Artist]]></title>
+        <description><![CDATA[Makeup Artist]]></description>
+        <link>https://thegrid.ai/josephinekong.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 17:43:03 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/josephinekong/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 17:53:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/josephinekong.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fashion]]></title>
             <description><![CDATA[<article><h1>Fashion</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5f6ed37f3cf982f2982518eb215e3010c43fb93.jpg"></article>]]></description>
-            <link>https://thegrid.ai/josephinekong/fashion/index.html</link>
+            <link>https://thegrid.ai/josephinekong.com/fashion/index.html</link>
             <guid isPermaLink="false">8782ca31-de09-46ee-b1a9-fa9a81080fa7</guid>
             <pubDate>Thu, 03 Mar 2016 17:42:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a5e87b1-710a-4c11-9906-c4fac8e6eff2.jpg">]]></description>
+            <link>https://thegrid.ai/josephinekong.com/52178e82-a205-42ac-9cb6-aeb43dc7412b/index.html</link>
+            <guid isPermaLink="false">52178e82-a205-42ac-9cb6-aeb43dc7412b</guid>
+            <pubDate>Thu, 03 Mar 2016 17:53:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
